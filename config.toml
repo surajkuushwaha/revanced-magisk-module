@@ -58,6 +58,18 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 
+[SoundCloud]
+build-mode = "apk"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.soundcloud.android"
+
+[Duolingo]
+build-mode = "apk"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.duolingo"
+
 [Twitch]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
