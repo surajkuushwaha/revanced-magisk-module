@@ -47,6 +47,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 enable-update-checks = true
 
 [Twitter]
+enabled = false
 patches-source = "crimera/piko-newx"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
