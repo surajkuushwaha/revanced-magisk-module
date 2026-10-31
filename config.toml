@@ -46,6 +46,14 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 enable-update-checks = true
 
+[1DM]
+app-name = "1DM"
+build-mode = "apk"
+patches-source = "ginDoki19/GinArena-patch"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "Morphe"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/vicky-bonick/idm-download-video-movie-music-anime-torrent/"
+
 [Twitter]
 enabled = false
 patches-source = "crimera/piko-newx"
