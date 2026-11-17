@@ -9,8 +9,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: ginDoki19/GinArena-patch/patches-2.11.1.mpp  
-[Changelog](https://github.com/ginDoki19/GinArena-patch/releases/tag/v2.11.1)
+Patches: ginDoki19/GinArena-patch/patches-2.12.0.mpp  
+[Changelog](https://github.com/ginDoki19/GinArena-patch/releases/tag/v2.12.0)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-2.2.0-all.jar  
 Patches: MorpheApp/morphe-patches/patches-2.3.0.mpp  
